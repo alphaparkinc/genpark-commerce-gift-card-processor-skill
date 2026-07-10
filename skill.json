@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "commerce-gift-card-processor-skill",
+  "name": "genpark-commerce-gift-card-processor-skill",
   "outputs": {
     "result_val": {
       "type": "string"
