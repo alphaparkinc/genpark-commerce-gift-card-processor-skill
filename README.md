@@ -1,4 +1,4 @@
-# commerce-gift-card-processor-skill
+# genpark-commerce-gift-card-processor-skill
 
 > **GenPark AI Agent Skill** -- ﻿
 
